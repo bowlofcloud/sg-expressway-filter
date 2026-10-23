@@ -1,0 +1,17 @@
+# Your 13 known expressway images: one filename per line, exactly as in data/images/.
+# Lines starting with # are ignored. Example:
+# img_0042.jpg
+road (209).jpg
+road (210).jpg
+road (211).jpg
+road (212).jpg
+road (213).jpg
+road (214).jpg
+road (215).jpg
+
+road (232).jpg
+road (233).jpg
+road (234).jpg
+road (235).jpg
+road (236).jpg
+road (237).jpg
